@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/arch/Work/profinda_saas'
+let g:netrw_dirhist_2='/home/arch/.vim/bundle'
+let g:netrw_dirhist_3='/home/arch/Work/profinda_saas'
+let g:netrw_dirhist_4='/home/arch/Projects/video_uploader'
+let g:netrw_dirhist_5='/home/arch/Work/profinda_saas'
+let g:netrw_dirhist_6='/home/arch/Projects/video_uploader'
+let g:netrw_dirhist_7='/home/arch/Projects/video_uploader/app'
+let g:netrw_dirhist_8='/home/arch/Projects/video_uploader'
+let g:netrw_dirhist_9='/home/arch/Work/profinda_saas'
